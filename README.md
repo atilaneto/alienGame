@@ -1,2 +1,2 @@
 # Alien Game
-Esse repositório contém os códigos de JavaScript e os assets utilizados para realizar a tarefa do game do alienígena. Usei uma array para spawnar três astronautas aleatoriamente no cenário do jogo e adicionei o planeta Marte com colisões ativadas.
+Esse repositório contém os códigos de JavaScript e os assets utilizados para realizar a tarefa do game do alienígena. Usei uma array para spawnar três astronautas aleatoriamente no cenário do jogo e adicionei o planeta Marte com colisões ativadas. Infelizmente não sei o que acontece quando faço o upload da pasta de assets aqui no GitHub, pois sou obrigado a selecionar asset por asset, ele simplesmente não faz o upload da pasta.
